@@ -10,3 +10,8 @@
     --cor-do-bloco: #02A676;
     --cor-da-fonte: #6FFF57;
 }
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', 'Sans-Serif';
+}
