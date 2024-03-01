@@ -46,8 +46,8 @@ body{
     font-size: 18px;
     align-items: center;
     width: 100%;
-    border-bottom: 4px solid var(--cor-botao1);
-    border-left: 2px solid var(--cor-botao2);
-    border-right: 2px solid var(--cor-botao3);
+    border-bottom: 4px solid var(--cor-botao2);
+    border-left: 2px solid var(--cor-botao3);
+    border-right: 2px solid var(--cor-botao4);
     border-top: none;
 }
