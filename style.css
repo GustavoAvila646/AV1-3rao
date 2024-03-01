@@ -38,4 +38,6 @@ body{
 
 .botao{
     font-family: 'Chakra Petch', Sans-Serif;
+    background-color: var(--cor-botao1);
+    color: var(--branco);
 }
