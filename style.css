@@ -51,3 +51,7 @@ body{
     border-right: 2px solid var(--cor-botao4);
     border-top: none;
 }
+
+.botao:first-child{
+    border-radius: 40px 40px 0 0;
+}
