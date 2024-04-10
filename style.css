@@ -4,13 +4,7 @@
     --branco: #FFFFFF;
     --cor-de-fundo: #2649bd;
     --texto-fundo:#0e6058;
-    --cor-botao1: #003840;
-    --cor-botao2: #005A5B;
-    --cor-botao3: #007369;
-    --cor-botao4: #008C72;
-    --cor-do-bloco: #02A676;
-    --cor-da-fonte: #6FFF57;
-    --verde: #1ca105e0;
+    --azul: #02008f;
     --botao-ativo: rgba(17, 209, 243, 0.795);
     --botao-inativo: rgba(8, 74, 86, 0.5);
 }
@@ -60,7 +54,7 @@ body{
 }
 .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--azul);
 }
 .abas-texto{
     background-color: var(--texto-fundo);
