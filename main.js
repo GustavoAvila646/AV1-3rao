@@ -15,4 +15,4 @@ const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2024-12-01");
 let tempoAtual = new Date();
 
-contadores[0].textContent = "Contagem regressiva";
+contadores[0].textContent = tempoObjetivo1 - tempoAtual;
